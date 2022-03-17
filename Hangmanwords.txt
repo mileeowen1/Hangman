@@ -1,0 +1,10 @@
+algorithms
+functions
+variables
+programming
+assignments
+coding
+conditionals
+loops
+files
+libraries
